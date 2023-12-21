@@ -49,6 +49,7 @@ public class BankEmployee extends Employee {
 
         BankEmployee bankEmployee1 = new BankEmployee("KL Rahul", 351328);
         bankEmployee1.getEmployeeDetails();
+
     }
 
 }
